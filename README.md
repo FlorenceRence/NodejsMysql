@@ -1,2 +1,2 @@
 # NodejsMysql
-creating rest api with nodejs and mysql
+node rest api with mongodb
